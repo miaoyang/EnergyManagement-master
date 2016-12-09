@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnergyManagement</string>
+    <string name="overview">能耗\n概况</string>
+    <string name="eMonitor">能耗\n监测</string>
+    <string name="eStat">能耗\n统计</string>
+    <string name="eAnalysis">能耗\n分析</string>
+    <string name="airMonitor">空调\n监测</string>
+    <string name="dianlutu">电路\n图</string>
+</resources>
